@@ -1,0 +1,48 @@
+h1 {
+    clear:both;
+    padding-top:10px;
+    color:lightgray;
+    font-size:14pt;
+}
+h1:first-of-type {
+    padding-top:0px;    /* No padding for first one :p */
+    margin-top:0px;
+}
+body {
+    background-color:black;
+    font-family: sans-serif;
+    font-size:11pt;
+    line-height: 150%;
+    padding:20px;
+    color:white;
+}
+ul {
+    padding:0;
+}
+li {
+    list-style: none;
+}
+.jewel-container {
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+    box-sizing: border-box;
+}
+.jewel-edge {
+    width:19px;
+    height:175px;
+    float:left;
+    background-color:rgb(48,48,48);
+    border:2px solid gray;
+    border-right:1px solid gray;
+    border-left:none;
+}
+.jewel-cover {
+    float:left;
+    width:175px;
+    height:175px;
+    background-size: cover;
+    /* background-position: center; */
+    border:2px solid gray;
+    border-left:none;
+}
