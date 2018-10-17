@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Invercargill trip",
+        "memories": "KFC, Screamer 2 review in PC Zone magazine.",
+        "games": [
+            { 
+                "name": "Screamer 2", 
+                "image_case": "https://www.mobygames.com/images/covers/l/260458-screamer-2-dos-other.jpg"
+            },
+            { 
+                "name": "Tomb Raider",
+                "image_case": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Tomb_Raider_%281996%29.png/220px-Tomb_Raider_%281996%29.png"
+            }
+        ]
+    },
+    {
+        "name": "Dick Smith trip",
+        "memories": ".",
+        "games": [
+            { 
+                "name": "Scourge of Armagon", 
+                "image_case": "https://img.discogs.com/w4WPFrM1IWzqOajroUKAEB_OK5k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6750538-1425853178-2101.jpeg.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Noel Leeming trip",
+        "memories": ".",
+        "games": [
+            { 
+                "name": "Red Alert: Collector's Edition", 
+                "image_case": "https://encontrei.files.wordpress.com/2008/09/red_alert.jpg?w=300&h=300"
+            },
+            { 
+                "name": "MDK: Special Edition" ,
+                "image_case": "https://static.gamespot.com/uploads/scale_tiny/mig/0/4/6/1/2210461-mdk_cover.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gamesman purchases",
+        "memories": ".",
+        "games": [
+            { 
+                "name": "Quake III Arena", 
+                "image_case": "https://m.media-amazon.com/images/M/MV5BOGM4NTZiNjItZGIyZi00MTEzLTgzMTktYmM0NzkyMTcwMTk5XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_.jpg"
+            }
+        ]
+    },
+    {
+        "name": "PC PowerPlay Won",
+        "memories": ".",
+        "games": [
+            { 
+                "name": "Battlezone", 
+                "image_case": "http://www.elisoftware.org/images/d/d2/47875-33990.jpg"
+            },
+            { 
+                "name": "Unreal Tournament", 
+                "image_case": "https://vignette.wikia.nocookie.net/egamia/images/6/67/Unreal_Tournament_box.JPG/revision/latest/scale-to-width-down/310?cb=20061022051612"
+            }
+        ]
+    },
+    {
+        "name": "Unfiled",
+        "memories": ".",
+        "games": [
+            { 
+                "name": "Doom 2",
+                "image_case": "https://images-na.ssl-images-amazon.com/images/I/61XRJ56PNGL._AC_SX215_.jpg"
+            },
+            { 
+                "name": "Doom Music", 
+                "image_case": "https://img.discogs.com/xW4YabYo4ifZjdYP8HkryrJB0Nk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7024212-1431918019-8970.jpeg.jpg"
+            },
+            { 
+                "name": "Hexen II",
+                "image_case": "https://images-na.ssl-images-amazon.com/images/I/71RRP2WQHWL._AC_SX215_.gif"
+            }
+        ]
+    }
+]
