@@ -5,3 +5,4 @@
 * [ ] include manual covers.
 * [ ] include manual browsers (inc. mdk special edition)
 * [ ] categorisation based on json.
+* [ ] DVD style (galaxy quest, end of days, the matrix, screen behind mirror)

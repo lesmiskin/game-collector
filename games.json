@@ -13,7 +13,7 @@
         ]
     },
     {
-        "name": "Dick Smith trip",
+        "name": "Dick Smith ad-hoc #1",
         "games": [
             { 
                 "name": "Scourge of Armagon", 
@@ -22,7 +22,16 @@
         ]
     },
     {
-        "name": "Noel Leeming trip",
+        "name": "Noel Leeming trip #1",
+        "games": [
+            { 
+                "name": "Need for Speed: SE", 
+                "image_case": "https://www.mobygames.com/images/covers/l/37097-the-need-for-speed-special-edition-dos-media.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Noel Leeming trip #2",
         "games": [
             { 
                 "name": "Red Alert: Collector's Edition", 
@@ -31,6 +40,41 @@
             { 
                 "name": "MDK: Special Edition" ,
                 "image_case": "https://static.gamespot.com/uploads/scale_tiny/mig/0/4/6/1/2210461-mdk_cover.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Unsourced (Noel Leeming?)",
+        "games": [
+            { 
+                "name": "Quake", 
+                "image_case": "https://www.mobygames.com/images/covers/l/73981-quake-dos-other.jpg"
+            },
+            { 
+                "name": "Quake II", 
+                "image_case": "https://www.mobygames.com/images/covers/l/33987-quake-ii-windows-other.jpg"
+            },
+            { 
+                "name": "Moto Racer", 
+                "image_case": "https://www.mobygames.com/images/covers/l/174375-moto-racer-windows-other.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Australia trip",
+        "games": [
+            { 
+                "name": "Need for Speed III: Hot Pursuit", 
+                "image_case": "https://www.mobygames.com/images/covers/l/99311-need-for-speed-iii-hot-pursuit-windows-other.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Christchurch visit",
+        "games": [
+            { 
+                "name": "Primal Rage", 
+                "image_case": "https://www.mobygames.com/images/covers/l/9949-primal-rage-dos-front-cover.jpg"
             }
         ]
     },
@@ -48,6 +92,24 @@
             { 
                 "name": "Return to Castle Wolfenstein", 
                 "image_case": "https://upload.wikimedia.org/wikipedia/en/b/b0/Return_to_Castle_Wolfenstein_Coverart.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Dick Smith ad-hoc #2",
+        "games": [
+            { 
+                "name": "Aliens vs Predator", 
+                "image_case": "https://www.mobygames.com/images/covers/l/175613-aliens-versus-predator-windows-other.jpg"
+            }
+        ]
+    },
+    {
+        "name": "The Warehouse (Alexandra)",
+        "games": [
+            { 
+                "name": "Asteroids", 
+                "image_case": "https://www.mobygames.com/images/covers/l/28993-asteroids-windows-other.jpg"
             }
         ]
     },
