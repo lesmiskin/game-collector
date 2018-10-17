@@ -3,7 +3,9 @@
     <style>
         h1 {
             clear:both;
-            padding-top:20px;
+            padding-top:10px;
+            color:lightgray;
+            font-size:14pt;
         }
         h1:first-of-type {
             padding-top:0px;    /* No padding for first one :p */
@@ -49,14 +51,10 @@
     </style>
     <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script>
-        var showMemories = false;
-
         var showGame = (collection) => {
             // Main heading + memory
+            $('body').add('<div class="collection">');
             $('body').append(`<h1>${collection.name}</h1>`);
-            if(showMemories) {
-                $('body').append(`<p>${collection.memories}</p>`);
-            }
 
             // the game
             collection.games.forEach((game) => {

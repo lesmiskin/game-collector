@@ -1,7 +1,6 @@
 [
     {
         "name": "Invercargill trip",
-        "memories": "KFC, Screamer 2 review in PC Zone magazine.",
         "games": [
             { 
                 "name": "Screamer 2", 
@@ -15,7 +14,6 @@
     },
     {
         "name": "Dick Smith trip",
-        "memories": ".",
         "games": [
             { 
                 "name": "Scourge of Armagon", 
@@ -25,7 +23,6 @@
     },
     {
         "name": "Noel Leeming trip",
-        "memories": ".",
         "games": [
             { 
                 "name": "Red Alert: Collector's Edition", 
@@ -39,17 +36,23 @@
     },
     {
         "name": "Gamesman purchases",
-        "memories": ".",
         "games": [
+            { 
+                "name": "American McGee's Alice", 
+                "image_case": "https://upload.wikimedia.org/wikipedia/en/a/a9/American_McGee_Alice_cover.png"
+            },
             { 
                 "name": "Quake III Arena", 
                 "image_case": "https://m.media-amazon.com/images/M/MV5BOGM4NTZiNjItZGIyZi00MTEzLTgzMTktYmM0NzkyMTcwMTk5XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_.jpg"
+            },
+            { 
+                "name": "Return to Castle Wolfenstein", 
+                "image_case": "https://upload.wikimedia.org/wikipedia/en/b/b0/Return_to_Castle_Wolfenstein_Coverart.jpg"
             }
         ]
     },
     {
         "name": "PC PowerPlay Won",
-        "memories": ".",
         "games": [
             { 
                 "name": "Battlezone", 
@@ -58,12 +61,15 @@
             { 
                 "name": "Unreal Tournament", 
                 "image_case": "https://vignette.wikia.nocookie.net/egamia/images/6/67/Unreal_Tournament_box.JPG/revision/latest/scale-to-width-down/310?cb=20061022051612"
+            },
+            { 
+                "name": "Clive Barker's Undying",
+                "image_case": "https://www.mobygames.com/images/covers/l/24483-clive-barker-s-undying-windows-other.jpg"
             }
         ]
     },
     {
         "name": "Unfiled",
-        "memories": ".",
         "games": [
             { 
                 "name": "Doom 2",
